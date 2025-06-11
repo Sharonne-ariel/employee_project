@@ -1,0 +1,10 @@
+Django>=4.0,<5.0
+djangorestframework
+drf-yasg
+django-environ
+Faker
+psycopg2-binary
+django-filter
+djangorestframework-simplejwt
+drf-yasg
+Faker==...
